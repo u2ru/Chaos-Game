@@ -67,7 +67,7 @@ i=0
 iteration = font.render("Iteration: " + str(i), False, white)
 display.blit(iteration,(0,30))
 
-iter=500
+iter=5000
 
 while i <= iter:
     if i == iter:
